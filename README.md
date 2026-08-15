@@ -7,7 +7,7 @@
 Paris · Available September 2026
 
 [![TheTeacher](https://img.shields.io/badge/TheTeacher-live_demo-2f81f7?style=for-the-badge)](https://theteacher2.sofianehutao.workers.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sofiane-chardonnay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sofianechardonnay)
 [![Email](https://img.shields.io/badge/Email-24292f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofianehutao@gmail.com)
 
 </div>
