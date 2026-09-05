@@ -6,7 +6,6 @@
 
 Paris · Available September 2026
 
-[![TheTeacher](https://img.shields.io/badge/TheTeacher-live_demo-2f81f7?style=for-the-badge)](https://theteacher2.sofianehutao.workers.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sofianechardonnay)
 [![Email](https://img.shields.io/badge/Email-24292f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofianehutao@gmail.com)
 
@@ -22,21 +21,19 @@ TypeScript · React · Next.js · Node.js · Python · Cloudflare Workers · Pos
 
 ## What to look at
 
-### [TheTeacher](https://github.com/yepun01/theteacher) · [live demo](https://theteacher2.sofianehutao.workers.dev)
+### [Decked Out](https://github.com/yepun01/deckedout-project-Readme)
 
-A lesson runtime in production. Prose, a 3D world, an executable code editor and an AI tutor share one screen. After the student's code runs, the tutor reads the real position in the simulation and asks its next question from that result. Next.js 16 on 5 Cloudflare Workers, with the student's Python confined to a sandboxed runner so the main origin never needs unsafe-eval.
+A no-code platform to build and monetize card games. Epitech end-of-studies project, team of 4: I owned the algorithmics, the backend and the game engine. Visual node-based editor with AI assistance and real-time collaboration; cloud backend with auth, multiplayer, distributed storage and a marketplace.
 
 ### [claude-code-config](https://github.com/yepun01/claude-code-config)
 
 The tooling I develop with every day. 9 specialized agents, 15 skills, 18 lifecycle hooks, 22 ADRs, around 10k lines. Every technical claim an agent produces carries an evidence marker, weighted into a justification denominator.
 
-### [Machine-Learning_trading_bot](https://github.com/yepun01/Machine-Learning_trading_bot)
+### [TheTeacher](https://github.com/yepun01/theteacher)
 
-Out of a 24h hackathon. Pure NumPy, no framework, written from scratch. 5th out of ~100 participants, with a machine-learning approach instead of the usual rule-based strategies.
+### TheCoach
 
-### [EWR](https://github.com/yepun01/EWR)
-
-A browser coding game where you progress by writing code, inspired by The Farmer Was Replaced.
+AI sports coach, multi-sport. A planning engine that reasons about recovery, with an LLM on top that decides. In construction, no public repository yet.
 
 ---
 
