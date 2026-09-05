@@ -16,20 +16,7 @@ Paris · Available September 2026
 
 I build full-stack products in TypeScript, and I put LLM agents inside them where they earn their place.
 
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-
-</div>
+TypeScript · React · Next.js · Node.js · Python · Cloudflare Workers · PostgreSQL · MongoDB · Docker · Claude API
 
 ---
 
@@ -45,7 +32,7 @@ The tooling I develop with every day. 9 specialized agents, 15 skills, 18 lifecy
 
 ### [Machine-Learning_trading_bot](https://github.com/yepun01/Machine-Learning_trading_bot)
 
-Out of a 24h hackathon. Pure NumPy, no framework, written from scratch. 5th out of ~100 participants, and the ML approach won against the classic rule-based ones.
+Out of a 24h hackathon. Pure NumPy, no framework, written from scratch. 5th out of ~100 participants, with a machine-learning approach instead of the usual rule-based strategies.
 
 ### [EWR](https://github.com/yepun01/EWR)
 
@@ -55,4 +42,4 @@ A browser coding game where you progress by writing code, inspired by The Farmer
 
 ## Background
 
-2 years teaching and tutoring at ETNA: algorithmics, machine learning, applied AI, and the modules that go with them. Double degree between Epitech Paris and Beijing Jiaotong University (MSc AI & Big Data). On Decked Out, my Epitech end-of-studies project, I owned the algorithmics, the backend and the game engine in a team of 4.
+Main developer of DiveIn at ETNA: an internal platform of interactive videos for learning to code, used by about 100 students per cohort, with 8 other contributors. A year of teaching and tutoring there as well: algorithmics, machine learning, applied AI, and the modules that go with them. Double degree between Epitech Paris and Beijing Jiaotong University (MSc AI & Big Data). On Decked Out, my Epitech end-of-studies project, I owned the algorithmics, the backend and the game engine in a team of 4.
