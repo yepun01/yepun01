@@ -39,4 +39,4 @@ AI sports coach, multi-sport. A planning engine that reasons about recovery, wit
 
 ## Background
 
-Main developer of DiveIn at ETNA: an internal platform of interactive videos for learning to code, used by about 100 students per cohort, with 8 other contributors. A year of teaching and tutoring there as well: algorithmics, machine learning, applied AI, and the modules that go with them. Double degree between Epitech Paris and Beijing Jiaotong University (MSc AI & Big Data). On Decked Out, my Epitech end-of-studies project, I owned the algorithmics, the backend and the game engine in a team of 4.
+Main developer of DiveIn at ETNA: an internal platform of interactive videos for learning to code, used by about 100 students per cohort, with 8 other contributors. A year of teaching and tutoring there as well: algorithmics, machine learning, applied AI, and the modules that go with them. Double degree: the Epitech Paris Programme Grande École, plus a second degree from Beijing Jiaotong University, specialised in AI and big data. On Decked Out, my Epitech end-of-studies project, I owned the algorithmics, the backend and the game engine in a team of 4.
