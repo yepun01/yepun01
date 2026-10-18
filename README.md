@@ -1,62 +1,51 @@
-<div align="center">
+# Sofiane Chardonnay — Forward Deployed Engineering & Applied AI
 
+**TypeScript & Python · Paris · Available now for freelance and full-time opportunities**
 
-### Sofiane Chardonnay
+I build software that connects AI capabilities to practical workflows: product interfaces, existing services, persistent data and deterministic validation. I’m looking for Forward Deployed Engineer opportunities where understanding the problem and integrating the solution matter as much as the model.
 
+My background combines internal engineering at ETNA, personal AI projects and systems development in a team of four.
 
-**Full-stack TypeScript, and LLM agents wired into real systems.**
+## Selected work
 
+### TheTeacher — AI tutoring connected to learner activity
 
-Paris · Available September 2026
+A useful tutor needs context about the exercise and the learner’s work, not just conversation history.
 
+I built a personal learning prototype combining authored lessons, visual worlds, browser-based Python execution and an AI tutor. I integrated streamed responses, authentication, conversation persistence and structured lesson/world context. Deterministic checks evaluate supported programming goals separately from the tutor’s explanations; regression tests exercise starter programs and reference solutions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sofianechardonnay)
-[![Email](https://img.shields.io/badge/Email-24292f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofianechardonnaypro@gmail.com)
+**Stack:** Next.js, TypeScript, OpenRouter, PostgreSQL, Drizzle and Cloudflare Workers.
 
+[Public overview, screenshots and demo link](https://github.com/yepun01/theteacher) · Application source private.
 
-</div>
+### ETNA — product integration and AI-assisted content workflows
 
+DiveIn aimed to bring scattered course material and help requests into one experience. I built the sign-in integration and La Poissonnerie’s help-request queue end to end, then reworked the frontend, built a video catalog and connected course pages to existing teaching resources. I also integrated and tested a colleague’s quiz.
 
----
+The help queue reached students in a partial rollout; the video catalog and frontend redesign were not deployed. The queue’s limited uptake highlighted a practical constraint: students in the same room as instructors often preferred asking directly.
 
+Separately, I built an AI-assisted slide-production workflow covering prompt checks, asynchronous generation, export and resource-index updates, with resumable runs and human review before release.
 
-I build full-stack products in TypeScript, and I put LLM agents inside them where they earn their place.
+### TheCoach — AI-generated workouts with explicit constraints
 
+Personal project, in development. The goal is to make athlete preferences and constraints affect the workout actually saved and served, rather than merely acknowledged in chat.
 
-TypeScript · React · Next.js · Node.js · Python · Cloudflare Workers · PostgreSQL · MongoDB · Docker · Claude API
+I’m building a system where the model proposes exercises and doses, a deterministic engine checks admissibility, and accepted prescriptions are persisted. Bounded tool loops and explicit rejection reasons connect generation to application behavior; opening a saved plan does not trigger regeneration.
 
+**Stack:** TypeScript, Hono, PostgreSQL, OpenRouter and Expo/React Native. Current work focuses on personalization and evaluation.
 
----
+### Decked Out — algorithms, backend and game engine
 
+A four-person Epitech project for creating card games through a visual editor. I was responsible for the TypeScript algorithms, backend and game engine, connecting game execution with authentication, multiplayer state and storage.
 
-## What to look at
+The platform combines an Electron/React editor, a Node.js backend and a Godot runtime, with PostgreSQL, Redis and WebSockets.
 
+[Public project presentation](https://github.com/yepun01/deckedout-project-Readme) · Implementation repositories private.
 
-### [Decked Out](https://github.com/yepun01/deckedout-project-Readme)
+## Engineering focus
 
+- **Applied AI:** tool calling, streaming, structured context, deterministic validation.
+- **Integration:** authentication, APIs, relational data and content workflows.
+- **Delivery foundations:** full-stack TypeScript/Python, browser/mobile interfaces and automated tests.
 
-A no-code platform to build and monetize card games. Epitech end-of-studies project, team of 4: I owned the algorithmics, the backend and the game engine. Visual node-based editor with AI assistance and real-time collaboration; cloud backend with auth, multiplayer, distributed storage and a marketplace.
-
-
-### [claude-code-config](https://github.com/yepun01/claude-code-config)
-
-
-The tooling I develop with every day. 9 specialized agents, 15 skills, 18 lifecycle hooks, 22 ADRs, around 10k lines. Every technical claim an agent produces carries an evidence marker, weighted into a justification denominator.
-
-
-### [TheTeacher](https://github.com/yepun01/theteacher)
-
-
-### TheCoach
-
-
-AI sports coach, multi-sport. A planning engine that reasons about recovery, with an LLM on top that decides. In construction, no public repository yet.
-
-
----
-
-
-## Background
-
-
-Main developer of DiveIn at ETNA: an internal platform of interactive videos for learning to code, used by about 100 students per cohort, with 8 other contributors. A year of teaching and tutoring there as well: algorithmics, machine learning, applied AI, and the modules that go with them. Double degree: the Epitech Paris Programme Grande École, plus a second degree from Beijing Jiaotong University, specialised in AI and big data. On Decked Out, my Epitech end-of-studies project, I owned the algorithmics, the backend and the game engine in a team of 4.
+[Contact on LinkedIn](https://linkedin.com/in/sofianechardonnay)
